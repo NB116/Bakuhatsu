@@ -1,0 +1,129 @@
+# SimC Addon 1.12.2
+# Requires SimulationCraft 820-01 or newer
+
+warrior="Bakuhatsu"
+level=120
+race=pandaren
+region=us
+server=thrall
+role=attack
+professions=herbalism=27/mining=64
+talents=2122123
+spec=fury
+
+azerite_essences=14:3/300573/5:3/300575/300576
+# azerite_essences_available=2:3/4:2/5:3/7:3/12:1/14:3/27:1
+
+head=,id=168360,bonus_id=4824/1517/4786/6270,context=6,azerite_powers=119/438/459/15
+neck=,id=158075,bonus_id=6316/4932/4933/1594,context=11,azerite_level=62
+shoulder=,id=159439,bonus_id=5445/1602/4786/6268/4775,context=35,azerite_powers=176/196/30/15/13
+back=,id=159294,gem_id=168639,bonus_id=5010/4802/1612/4783,context=35
+chest=,id=159448,bonus_id=5445/1602/4786/6266/4775,context=35,azerite_powers=176/193/31/44/13
+tabard=,id=43349
+wrist=,id=159449,bonus_id=5010/1602/5870/4784,context=16
+hands=,id=168885,gem_id=168639,bonus_id=4799/1808/1502/4786,context=5
+waist=,id=170370,gem_id=168641,bonus_id=6300/4802/6292/1502/4786
+legs=,id=168389,bonus_id=4799/1502/5850/4783,context=5
+feet=,id=168390,bonus_id=4799/1502/4786,context=5
+finger1=,id=168889,enchant_id=6108,bonus_id=4800/1517/5850/4783,context=6
+finger2=,id=158314,enchant_id=6108,bonus_id=5010/1612/4783,context=35
+trinket1=,id=169313,bonus_id=4799/1502/4786,context=5
+trinket2=,id=169307,bonus_id=4799/42/1502/4786,context=5
+main_hand=,id=159638,enchant_id=5963,bonus_id=5010/41/1612/4783,context=35
+off_hand=,id=168897,enchant_id=5965,bonus_id=4799/1502/4786,context=5
+
+### Gear from Bags
+#
+# Green Winter Hat (1)
+# head=,id=21525,context=22
+#
+# Greathelm of the Tender (435)
+# head=,id=168365,bonus_id=4823/1502/4786/6267/4775,context=5,azerite_powers=237/177/21/476/13
+#
+# Goldsteel Greathelm (395)
+# head=,id=109987,bonus_id=6314,drop_level=120,context=22
+#
+# Freehold Shoulderpads of the Quickblade (266)
+# shoulder=,id=159173,bonus_id=4796/1677,drop_level=120
+#
+# Firekin Amice (310)
+# shoulder=,id=164561,context=11
+#
+# Trench Tyrant's Shoulderplates (400)
+# shoulder=,id=168362,bonus_id=4825/1472/4786/6262,context=4,azerite_powers=
+#
+# Gong-Lu, Strength of Xuen (136)
+# back=,id=102249,gem_id=76659
+#
+# Barnacle-Crusted Breastplate (445)
+# chest=,id=168367,bonus_id=4824/1517/4786/6269,context=6,azerite_powers=450/440/21/476
+#
+# Neri's Heavy Manacles (385)
+# wrist=,id=170328,bonus_id=6288/6300/4802
+#
+# Undercove Crushers (445)
+# hands=,id=168885,bonus_id=4800/1517/4786,context=6
+#
+# Deeptide Gloves of the Feverflare (266)
+# hands=,id=169399,bonus_id=4796/1699,drop_level=120
+#
+# Grips of the Everlasting Guardian (430)
+# hands=,id=159445,bonus_id=5010/1602/4786,context=16
+#
+# Storm-Tempered Girdle (445)
+# waist=,id=168388,bonus_id=4800/1517/4786,context=6
+#
+# Belt of the Unrelenting Gale (430)
+# waist=,id=159426,bonus_id=5010/1602/4786,context=16
+#
+# Zancha's Venerated Greatbelt (440)
+# waist=,id=159410,bonus_id=5010/1612/4783,context=35
+#
+# Swarmfury Legwraps (310)
+# legs=,id=164454,context=11
+#
+# Akana's Reefstrider Boots (385)
+# feet=,id=170143,bonus_id=6288/6300/43
+#
+# Honorbound Centurion's Greaves (430)
+# feet=,id=163460,bonus_id=5845/1622/4786,context=23
+#
+# Disease-Binder Seal (395)
+# finger1=,id=109782,bonus_id=6314,drop_level=120,context=22
+#
+# Seal of Resilient Fortitude (395)
+# finger1=,id=109776,bonus_id=6314/523,drop_level=120,context=22
+#
+# Ring of the Highborne Courtier (415)
+# finger1=,id=168890,bonus_id=4798/1487/4786,context=3
+#
+# Jade Ophidian Band (420)
+# finger1=,id=162544,enchant_id=6108,gem_id=168639,bonus_id=5005/4802/42/1592/4783,context=35
+#
+# Ring of the Highborne Courtier (430)
+# finger1=,id=168890,enchant_id=6108,bonus_id=4799/1502/4786,context=5
+#
+# Highborne Compendium of Sundering (400)
+# trinket1=,id=169321,context=13
+#
+# Pocket-Sized Computation Device (404)
+# trinket1=,id=167555,gem_id=167556/168752,bonus_id=1476,context=11
+#
+# Merektha's Fang (430)
+# trinket1=,id=158367,bonus_id=5010/1602/4786,context=16
+#
+# Strong Fishing Pole (10)
+# main_hand=,id=6365,context=14
+#
+# Howling Spear of the Harmonious (130)
+# main_hand=,id=116638,bonus_id=3875/211,drop_level=120,context=29
+#
+# Blacksmith Hammer (1)
+# main_hand=,id=5956
+#
+# Mining Pick (4)
+# main_hand=,id=2901
+#
+# Howling Spear of the Harmonious (130)
+# off_hand=,id=116638,bonus_id=3875/211,drop_level=120,context=29
+
